@@ -12,6 +12,7 @@ import java.io.IOException;
 //        2. После загрузки клиента показывать ему последние 100 строк чата.
 public class Main extends Application {
 
+
     @Override
     public void start(Stage primaryStage) throws Exception{
 
