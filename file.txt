@@ -1,0 +1,38 @@
+от: nick1: cxcxcx
+от: nick1: cefewrf
+от: nick1: dfdsfg
+от: nick1: etret
+от: nick1: df
+от: nick1: dfdfdf
+от: nick1: dfdfd
+от: nick1: dfdfdfdfdfdfd
+от: nick1: fgfgfgfresg
+nick2 зашел в чат
+от: nick2: dfcsdfsdf
+от: nick2: dfcsdfsdf
+от: nick2: dfdfsdf
+от: nick2: dfdfsdf
+от: nick2: ddfdfdf
+от: nick2: ddfdfdf
+от: nick2: efef
+от: nick2: efef
+nick3 зашел в чат
+nick3 зашел в чат
+nick3 вышел из чата
+nick3 вышел из чата
+nick3 зашел в чат
+nick3 зашел в чат
+nick3 вышел из чата
+nick3 вышел из чата
+nick1 вышел из чата
+null вышел из чата
+от: nick1: cdc
+от: nick1: cdcdcdc
+nick2 зашел в чат
+nick2 вышел из чата
+nick2 зашел в чат
+от: nick1 brother
+от: nick1 ok
+от: nick2: hello everybody
+от: nick2: hello everybody
+nick2 вышел из чата
